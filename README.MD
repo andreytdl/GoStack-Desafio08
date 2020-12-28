@@ -7,10 +7,11 @@
 <blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
 
 ## Imagens do desafio finalizado por mim - Andrey Torres
-<img src="./images/dashboard.jpg" width="220" height="500"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./images/cart.jpg" width="220" height="500" padding-left="50"/>
+<p float="left">
+  <img src="./images/dashboard.jpg" width="220" height="500"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/cart.jpg" width="220" height="500"/>
+</p>
 
 ## :rocket: Sobre o desafio
 
